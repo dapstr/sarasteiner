@@ -1,6 +1,6 @@
 <?php
 /**
- * @package Sara Steiner
+ * @package SaraSteiner
  */
 ?>
 

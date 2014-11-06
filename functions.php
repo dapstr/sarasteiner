@@ -1,8 +1,8 @@
 <?php
 /**
- * Sara Steiner functions and definitions
+ * SaraSteiner functions and definitions
  *
- * @package Sara Steiner
+ * @package SaraSteiner
  */
 
 /**
@@ -25,7 +25,7 @@ function sarasteiner_setup() {
 	/*
 	 * Make theme available for translation.
 	 * Translations can be filed in the /languages/ directory.
-	 * If you're building a theme based on Sara Steiner, use a find and replace
+	 * If you're building a theme based on SaraSteiner, use a find and replace
 	 * to change 'sarasteiner' to the name of your theme in all the template files
 	 */
 	load_theme_textdomain( 'sarasteiner', get_template_directory() . '/languages' );

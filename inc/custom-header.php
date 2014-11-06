@@ -12,7 +12,7 @@
 	<?php endif; // End header image check. ?>
 
  *
- * @package Sara Steiner
+ * @package SaraSteiner
  */
 
 /**

@@ -2,7 +2,7 @@
 /**
  * The template for displaying search results pages.
  *
- * @package Sara Steiner
+ * @package SaraSteiner
  */
 
 get_header(); ?>

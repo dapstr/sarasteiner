@@ -1,8 +1,8 @@
 <?php
 /**
- * Sara Steiner Theme Customizer
+ * SaraSteiner Theme Customizer
  *
- * @package Sara Steiner
+ * @package SaraSteiner
  */
 
 /**
