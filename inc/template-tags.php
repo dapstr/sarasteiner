@@ -4,7 +4,7 @@
  *
  * Eventually, some of the functionality here could be replaced by core features.
  *
- * @package SaraSteiner
+ * @package Sara Steiner
  */
 
 if ( ! function_exists( 'sarasteiner_paging_nav' ) ) :

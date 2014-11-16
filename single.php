@@ -2,7 +2,7 @@
 /**
  * The template for displaying all single posts.
  *
- * @package SaraSteiner
+ * @package Sara Steiner
  */
 
 get_header(); ?>

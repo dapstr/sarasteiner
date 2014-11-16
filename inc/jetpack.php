@@ -3,7 +3,7 @@
  * Jetpack Compatibility File
  * See: http://jetpack.me/
  *
- * @package SaraSteiner
+ * @package Sara Steiner
  */
 
 /**
